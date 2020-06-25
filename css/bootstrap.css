@@ -4,6 +4,14 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+@font-face {
+  font-family: Montserrat-Light;
+  src: url(fonts/Montserrat-Light.ttf); }
+
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url(fonts/Montserrat-Bold.ttf); }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
